@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WRu0DOMl/J+RID+LgyHC6BCMPs8jSw4R6r8Rq7v8dVKPO6yGUvVQYzl27QlKVsBB/6XH+BgIXDgesUDKYnISdw==",
+  "success": true,
+  "projectFilePath": "E:\\VSPROJECTS\\1PCF\\PensionDisbursementsMd3\\PensionDisbursementsMd3\\PensionDisbursementsMd3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
